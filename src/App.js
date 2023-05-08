@@ -11,7 +11,7 @@ export default function App() {
     <Weather />
     <footer>
       This project is coded by <a href="https://ra-responsive-portfolio-v2.netlify.app"> Rashmi Aribenchi</a> and is {" "}
-      <a href="https://github.com/raribencchi/my-react-app" target="blank"> Open-sourced on GitHub and hosted on Netlify.</a>
+      <a href="https://github.com/raribencchi/my-app" target="blank"> Open-sourced on GitHub and hosted on Netlify.</a>
 
       </footer>
       </div>
