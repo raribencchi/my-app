@@ -2,7 +2,7 @@ import React from "react";
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Weather from "./Weather";
-import bg3 from "./Videos/bg3.mp4";
+import bg2 from "./Videos/bg2.mp4";
 
 export default function App() {
   return (
@@ -20,14 +20,14 @@ export default function App() {
         fontFamily:"sans-serif",
         zIndex:"-1"
       }} >
-    <source src={bg3} type='video/mp4' />
+    <source src={bg2} type='video/mp4' />
       </video>
 
     <h1><strong>React Weather App</strong> </h1>
     <Weather defaultCity="Perth"/>
     <footer>
-      This project is coded by <a href="https://ra-responsive-portfolio-v2.netlify.app"> Rashmi Aribenchi</a>  {"-"}
-      <a href="https://github.com/raribencchi/my-app" target="blank"> Open-sourced on GitHub & hosted through Netlify.</a>
+      This project is coded by <a href="https://ra-responsive-portfolio-v2.netlify.app"> Rashmi Aribenchi</a>  {" "}
+      <a href="https://github.com/raribencchi/my-app" target="blank"> and open-sourced at GitHub </a>
 
       </footer>
       </div>
