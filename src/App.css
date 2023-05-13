@@ -1,11 +1,11 @@
 body {
   font-family: arial,sans-serif;
   margin-top: 50px;
-background: url(https://media.istockphoto.com/photos/the-changes-of-weather-a-natural-phenomenon-of-the-differences-of-picture-id1257525705?k=6&m=1257525705&s=170667a&w=0&h=C9N3iisaF0HTkScXKhwDKtTGXPiBT4gmgCq14iIoFNk=) ;
-background-repeat: no-repeat;
-background-size: cover;
-overflow: hidden;
-height: 100vh;
+  background: url(https://media.istockphoto.com/photos/the-changes-of-weather-a-natural-phenomenon-of-the-differences-of-picture-id1257525705?k=6&m=1257525705&s=170667a&w=0&h=C9N3iisaF0HTkScXKhwDKtTGXPiBT4gmgCq14iIoFNk=) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  height: 100vh;
 }
 
 .App {
