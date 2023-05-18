@@ -30,7 +30,7 @@ export default function CurrentTemperature(props) {
       return (
         <div className="CurrentTemperature">
         <span className="temperature">{Math.round(props.celsius)}</span>
-        <span className="unit">°C / {" "} <a href="/" onClick={showFahrenheit}>°F </a></span>
+        <span className="unit">°C / {" "} <a href="/" onClick={showFahrenheit} position="relative">°F </a></span>
         </div>
       );
     }
