@@ -8,11 +8,11 @@
   
   .Weather h1 {
     font-size: 24px;
-    font-weight: 100;
+    font-weight: 150;
     margin: 20px 0 0 0;
     line-height: 29px;
     color:rgb(15, 15, 15);
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:Impact,Haettenschweiler,Arial Narrow Bold,sans-serif;
   }
   
   .Weather ul {
@@ -50,3 +50,4 @@
     top: -34px;
   }
   
+                

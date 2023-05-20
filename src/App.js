@@ -24,7 +24,8 @@ export default function App() {
       </video>
 
     <h1><strong>React Weather App</strong> </h1>
-    <Weather defaultCity="Perth"/>
+     <Weather defaultCity="Perth"/>
+
     <footer>
       This project is coded by <a href="https://ra-responsive-portfolio-v2.netlify.app"> Rashmi Aribenchi</a>  {" "}
       <a href="https://github.com/raribencchi/my-app" target="blank"> and open-sourced at GitHub </a>
@@ -34,3 +35,4 @@ export default function App() {
     </div>
   );
 }                                    
+
